@@ -7,7 +7,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Description:
-This project will allow you to submit images and, through an API, detect the faces on the submitted image. You are able to register, sign in and sign out. The amount of entries that you've done will also be registered and saved.
+This project will allow you to submit images and, through an API, detect the faces on the submitted image. You are able to register, sign in and sign out. The amount of entries that you've done will also be displayed and saved.
 
 ## Technologies:
 - ReactJS
