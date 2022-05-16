@@ -1,7 +1,7 @@
 # Face Recognition Project
 
 - [Description](#description)
-- [Techonlogies](#technologies)
+- [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
